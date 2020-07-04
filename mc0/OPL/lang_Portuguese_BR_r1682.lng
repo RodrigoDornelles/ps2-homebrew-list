@@ -1,0 +1,294 @@
+# Translation by Colossus, tonyhoro, and joseri 
+# Last update: Feb. 11, 2020
+# Updated for OPL_1682_DB-TA_all-5bf829f-2020-02-11 and OPL_OPL_1436_ifcaro_beta_all-f8ba412-2020-01-27
+# official thread: http://www.ps2-home.com/forum/viewtopic.php?f=83&t=164
+Brazilian Portuguese
+OPL %s
+Salvar mudanças
+Voltar
+Network Settings
+Opções avançadas
+<sem valores>
+Configurações salvas em %s
+Erro ao salvar configurações!
+Sair
+Configurações
+Menu
+Jogos no USB
+Jogos no HDD
+Jogos em REDE
+Aplicativos
+Tema
+Idioma
+O sistema será desligado.
+Sair para o navegador?
+Cancelar atualização?
+Erro %d: Nenhum HD detectado.
+Erro %d: O HD não está formatado.
+Erro %d: Problemas na inicialização da rede.
+Erro %d: Nenhum adaptador de rede detectado.
+Erro %d: Impossível conexão com servidor SMB.
+Erro %d: Impossível logar no servidor SMB.
+Erro %d: Impossível abrir compartilhamento SMB.
+Erro %d: Impossível listar compartilhamentos SMB.
+Erro %d: Impossível listar os jogos.
+Erro %d: Servidor DHCP indisponível.
+Erro %d: Sem conexão de rede.
+Ligado
+Desligado
+Concordar
+Ação
+Cancelar
+O
+X
+Lista de jogos
+Ajustes
+Remover configurações
+Todos os ajustes do jogo foram removidos
+Rolagem
+Lenta
+Média
+Rápida
+Menu padrão
+Iniciar a partir do disco
+Espere por favor
+Erro ao carregar ID do jogo
+Ordenação automática
+Erro ao carregar arquivo de idioma
+Desativar depuração de cores
+Controle não detectado, esperando...
+Habilitar artes
+Wide screen (Visão panorâmica)
+Desligar
+Carregando configurações...
+Salvando configurações...
+Iniciar dispositivo
+Atualizar
+Modo de início do dispositivo USB
+Modo de início do dispositivo HDD
+Modo de início do dispositivo REDE
+Modo de início dos Aplicativos
+Automático
+Manual
+Iniciar servidor HDL
+Iniciando Servidor HDL...
+Servidor HDL conectado...
+Falha na inicialização do Servidor HDL.
+Fechando servidor HDL...
+Sair para
+Cor do fundo
+Cor do texto
+- PS2 -
+- Servidor SMB -
+Tipo de endereço IP
+Estático
+DHCP
+Endereço IP
+Endereço
+Máscara de sub-rede
+Gateway padrão
+Servidor DNS
+Porta
+Nome do compartilhamento
+Usuário
+Senha
+<não definido>
+Tipo de endereço
+IP
+NetBIOS
+Confirmar
+O item será permanentemente apagado! Deseja Continuar?
+Renomear
+Excluir
+Iniciar
+Definições de tela
+Ativar ações de gravação
+Checar fragmentação dos jogos no USB
+Lembrar último jogo executado
+Escolha o botão de ação ( X ou O )
+Erro, o jogo está fragmentado!
+Erro, não foi possível iniciar o item
+Testar Alterações
+Deixar vazio para identificação como convidado (GUEST)
+Simular precisão de leitura CD/DVD
+Modo síncrono
+Desativar chamadas do sistema
+Pular vídeos PSS
+Emular DVD-DL
+Desabilitar IGR
+Não utilizado
+Não utilizado
+Alterar o tamanho (Irá reformatar o VMC!)
+Criar
+Iniciar atualização
+Modificar
+Abortar
+Resetar
+Usar genérico
+Configurar VMC
+Nome
+Tamanho
+Estado
+Progresso
+Arquivo VMC já existe
+Arquivo VMC inválido, o tamanho está incorreto
+Arquivo VMC precisa ser criado!
+Erro ao acessar o VMC %s. Continuar com MC na entrada %d?
+Atualização automática
+Informações do programa
+Desenvolvedores
+Controle de qualidade
+Prefixar uma pasta no USB
+Inicia um ELF personalizado após o IGR
+Valor em minuto(s), 0(zero) desabilita o spin down
+Desligamento automático do HDD (spin down)
+Modo de vídeo
+Cor do diálogo
+Cor da seleção
+Reset Colors
+Info
+Customizar ELF principal
+Seleção de cor
+Reconectar
+Deixe vazio para listar compartilhamentos
+Prefixar uma pasta na REDE
+Apagar
+Espaço
+Aceitar
+Modo
+VMC entrada 1
+VMC entrada 2
+ID do jogo
+Modo DMA
+Sincronização vertical da tela
+Modo 1
+Modo 2
+Modo 3
+Modo 4
+Modo 5
+Modo 6
+Modo 7
+Modo 8
+Configurar GSM
+Conexão de rede
+100Mbit Full-duplex
+100Mbit Half-duplex
+10Mbit Full-duplex
+10Mbit Half-duplex
+Configurações GSM
+Ativar GSM
+Autoriza o GSM a forçar o modo de vídeo selecionado abaixo
+Selecione o modo de vídeo
+Modo de vídeo a ser forçado
+Ajuste Horizontal
+Define o ajuste horizontal da imagem na tela
+Ajuste Vertical
+Define o ajuste vertical da imagem na tela
+Tela visível
+Define o ajuste da tela visível
+Pular vídeos FMV
+Ignora vídeos no formato (FMV)
+Configurar PS2RD
+Ativar PS2RD
+Autoriza o PS2RD a usar Cheats(Trapaças) nos seus jogos
+Modo PS2RD
+Auto seleção(Ativa todos) ou Selecione os Cheats do jogo
+Auto seleção
+Selecione os Cheats do jogo
+Erro: Falha ao carregar o arquivo (Cheat)
+Cheats não encontrados ou ilegíveis
+Baixar arquivos(cfg)
+Atualizar arquivos(cfg)
+Substituir os arquivos (cfg) existentes
+Atualização falhou.
+Falha na conexão com o servidor(cfg).
+Atualização concluída.
+Atualização cancelada.
+Baixar arquivos(cfg) do servidor?
+Configurações personalizadas
+Arquivos(cfg) baixados
+Auto iniciar em %i segundos
+Auto iniciar
+Valor em segundo(s), 0(zero) desabilita o auto iniciar
+Logo PS2
+Displayed for a valid disc logo matching the console's region.
+Configurar PADEMU
+Configurações do Emulador de Controles
+Ativar Emulador de Controles
+Liga/desliga o Emulador de Controles para o jogo selecionado.
+Modo Emulador de Controles
+Selecione o modo do Emulador de Controles.
+DualShock3/4 USB
+DualShock3/4 BT
+Configurações da porta:
+Selecione a porta que será configurada.
+Ativar emulação
+Liga/desliga a emulação na porta selecionada.
+Ativar vibração
+Liga/desliga a vibração na porta selecionada.
+Endereço MAC do adaptador Bluetooth USB:
+Endereço MAC do Controle DS emparelhado:
+Emparelhar
+Emparelhar Controle DS:
+Emparelha o Controle DS com o MAC do adaptador Bluetooth.
+Não conectado
+Informações do adaptador Bluetooth
+Mostra mais informações e recursos suportados
+Versão HCI:
+Versão LMP:
+ID do fabricante:
+Recursos suportados:
+Sim
+Não
+O adaptador Bluetooth deve ser totalmente compatível com os controles DS3/4.
+O adaptador Bluetooth pode não funcionar corretamente com os controles DS3/4.
+Ativar emulação Multitap
+Liga/desliga a emulação Multitap para o jogo selecionado.
+Emulador Multitap na porta
+Selecione a porta para a emulação Multitap.
+Desativar solução alternativa para Controle DS3 pirata
+Alguns Controles DS3 piratas precisam de solução alternativa, esta opção irá desativá-lo.
+Emular inversão de CAMPO
+Correção para jogos que apresentam falhas nos modos de vídeo progressivo.
+Controle parental
+Senha
+Deixe em branco para desativar o controle parental.
+Insira a senha do controle parental
+Senha incorreta.
+Controle parental desativado.
+Opções nesta compilação:
+Erro - esta senha não pode ser usada.
+O arquivo VMC %s está fragmentado. Continuar com o cartão de memória na entrada %d?
+Configurações de áudio
+Ativar efeitos sonoros
+Ativar som de inicialização
+Volume de efeitos sonoros
+Volume do som de inicialização
+Confirmar alteração do modo de vídeo?
+Cache da lista de jogos (HD)
+Ativar notificações
+%s carregado de %s
+Menu do Jogo
+Configurações do jogo salvas.
+%s configurações removidas.
+Substitui as configurações de compatibilidade de jogos existentes quando ativada.
+Modo de configurações
+Global
+Por jogo
+Todos
+Selecione as configurações para remover.
+Support Forums:
+Title
+Genre
+Release
+Developer
+Description
+Jogos PS1
+Modo de início dos Jogos PS1
+Arquivo POPSTARTER.ELF não encontrado em '%s'!
+O arquivo VCD '%s' não foi encontrado!
+Ocorreu um erro ao renomear o arquivo.
+Ocorreu um erro ao excluir o arquivo.
+Nunca compre OPEN-PS2-LOADER (OPL), baixe grátis em:
+psx-scene.com, OPL versão ifcaro
+ps2-home.com, OPL versão Daily Builds (DB)
